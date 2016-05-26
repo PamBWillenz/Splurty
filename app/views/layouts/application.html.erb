@@ -29,7 +29,20 @@
   <hr />
   <br class="clear" />
 
+<div class="container">
 <%= yield %>
+</div>
 
+<div class="footer">
+  <div class="container">
+    <div class="col-xs-6">
+      <%= link_to "Step away from that cookie", "#", class: 'next-quote' %>
+    </div>
+    <div class="col-xs-6 footer-blurb" >
+      Pam's roadmap to health <a "href=http://pamwillenz.com/"></a><br />
+      Want to get healthy and live the lifestyle you want - <a href="http://pamwillenz.com/">Come sign up for a free consultation</a>
+    </div>    
+  </div>
+</div>    
 </body>
 </html>
