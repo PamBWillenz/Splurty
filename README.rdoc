@@ -1,28 +1,11 @@
-== README
+# Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Ruby version -- 2.3.0
 
-Things you may want to cover:
+* Data-base powered quote generator with mobile-first-design
 
-* Ruby version
+* Ruby on Rails, HTML and CSS
 
-* System dependencies
+###### Here's a sneak peak at my health quoting app in action
+![alt tag](https://github.com/PamBWillenz/Splurty/master/app/assets/images/splurty_screenshot.png)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
